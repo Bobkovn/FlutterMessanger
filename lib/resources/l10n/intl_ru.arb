@@ -1,0 +1,13 @@
+{
+  "@@last_modified": "2021-06-06T10:58:16.972803",
+  "login": "Войти",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUp": "Зарегистрироваться",
+  "@signUp": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
